@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #343a40;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+#combineRules {
+    margin-top: 10px;
+}
+
+.checkbox {
+    margin-right: 10px;
+}
